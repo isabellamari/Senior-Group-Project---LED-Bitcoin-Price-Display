@@ -1,6 +1,6 @@
 # senior-group-project
 
-![This is an image](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg)
+![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2560px-Bitcoin_logo.svg.png)
 
 This is Raspberry pi Python code for displaying bitcoin price on LED display
 This code is for a Raspberry pi that will illustrate the price of bitcoin at the moment. The project was led by four high school students for class using python. The high school students names are Andy, Oliver, Andres, and Isa. This is what they each did:

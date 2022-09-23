@@ -15,12 +15,7 @@ def show_text(btc_price):
 	print(btc_price)
 
 
-	lines = ["In the old #BILGETANK we'll keep you in the know",
-			 "In the old #BILGETANK we'll fix your techie woes",
-			 "And we'll make things",
-			 "And we'll break things",
-			 "'til we're altogether aching",
-			 "Then we'll grab a cup of grog down in the old #BILGETANK"]
+	lines = [price]
 
 	colours = [tuple([int(n * 255) for n in colorsys.hsv_to_rgb(x / float(len(lines)), 1.0, 1.0)]) for x in range(len(lines))]
 
